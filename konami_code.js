@@ -32,7 +32,7 @@ document.body.addEventListener("keydown", (e) => {
   
   console.log(index)
   if (index == 10) {
-    alert("Hurray!");
+    alert("INFINITE LIVES!!");
     index = 0 
   }
 }); 
